@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.selenide.CardOrderTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-16T13:42:55" hostname="DESKTOP-KUBBC5L" time="21.009">
+  <properties/>
+  <testcase name="shouldOpenPage()" classname="ru.netology.selenide.CardOrderTest" time="19.963"/>
+  <testcase name="shouldDisplayRightRequest()" classname="ru.netology.selenide.CardOrderTest" time="1.045"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[окт. 16, 2022 4:42:55 PM com.codeborne.selenide.drivercommands.LazyDriver getAndCheckWebDriver
+INFO: No webdriver is bound to current thread: 14 - let's create a new webdriver
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 106.0.5249.61 (511755355844955cd3e264779baf0dd38212a4d0-refs/branch-heads/5249@{#569}) on port 6958
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+окт. 16, 2022 4:43:09 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+окт. 16, 2022 4:43:09 PM com.codeborne.selenide.webdriver.BrowserResizer adjustBrowserSize
+INFO: Set browser size to 1366x768
+окт. 16, 2022 4:43:09 PM com.codeborne.selenide.webdriver.WebDriverFactory logBrowserVersion
+INFO: BrowserName=chrome Version=106.0.5249.119 Platform=WINDOWS
+окт. 16, 2022 4:43:09 PM com.codeborne.selenide.webdriver.WebDriverFactory createWebDriver
+INFO: Selenide v. 5.3.1
+окт. 16, 2022 4:43:09 PM com.codeborne.selenide.webdriver.WebDriverFactory logSeleniumInfo
+INFO: Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+окт. 16, 2022 4:43:09 PM com.codeborne.selenide.drivercommands.CreateDriverCommand createDriver
+INFO: Create webdriver in current thread 14: ChromeDriver -> ChromeDriver: chrome on WINDOWS (0cb6a47ca97d4e7dc7e17ad145693d8e)
+]]></system-err>
+</testsuite>
